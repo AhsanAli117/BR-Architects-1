@@ -1,0 +1,264 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    justify-content: center;
+    
+
+}
+
+
+
+.div{
+    box-sizing: border-box;
+    max-width: 70%;
+}
+.container{
+    width: 70%;
+    margin: 0% auto;
+
+}
+.header{
+    width: 70%;
+}
+.header nav{
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10% 0%;
+}
+nav h3{
+    display: inline-block;
+    text-decoration: none;
+
+}
+nav h5{
+    width: auto;
+    display: inline;
+    text-decoration: dotted;
+}
+nav ul{
+    list-style: none;
+    width: 100%;
+    text-align: right;
+    padding-right: 20px;
+
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+       
+}
+.content{
+    width: 100%;
+
+}
+
+.logo {
+     justify-content: left;
+
+}
+.content-text #heading1{
+
+font-size: 50px;
+margin-top: 3%;
+margin-bottom: 5%;
+width: 100%;
+}
+.burger-text #ahsan{
+    font-size: 50px;
+margin-top: 3%;
+margin-bottom: 3%;
+width: 100%;
+}
+.card{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.card img{
+    width: 30%;
+    opacity: 0.9;
+}
+
+.card p.name {
+    font-size: 20px;
+}
+.card p.roll {
+    font-size: 20px;
+    color: darkgray;
+    
+}
+.card button{
+    width: 20%;
+    font-size: large;
+    font-weight: 500;
+    /* border: none;
+    display: inline-block;*/
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 4px;
+    transition: 0.7s;
+}
+.card button:hover{
+    background-color: green;
+    
+}
+
+.card1 p.name{
+    font-size: 20px;
+}
+.card1 p.roll{
+    font-size: 20px;
+    color: darkgrey;
+}
+.card1 button{
+    width: 20%;
+    font-size: large;
+    font-weight: 500;
+    /* border: none;
+    display: inline-block;*/
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 4px;
+    transition: 0.7s;
+}
+
+.card1 button:hover{
+    background-color: green;
+
+}
+
+.card2 img{
+    margin-top: 3%;
+}
+
+.card2 p.name{
+    font-size: 20px;
+}
+.card2 p.roll{
+    font-size: 20px;
+    color: darkgrey;
+}
+.card2 button{
+    width: 20%;
+    font-size: large;
+    font-weight: 500;
+    /* border: none;
+    display: inline-block;*/
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 4px;
+    transition: 0.7s;
+}
+
+.card2 button:hover{
+    background-color: green;
+    
+}
+
+.card3 img{
+    margin-top: 3%;
+}
+
+.card3 p.name{
+    font-size: 20px;
+}
+.card3 p.roll{
+    font-size: 20px;
+    color: darkgrey;
+}
+.card3 button{
+    width: 20%;
+    font-size: large;
+    font-weight: 500;
+    /* border: none;
+    display: inline-block;*/
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 4px;
+    transition: 0.7s;
+}
+
+.card3 button:hover{
+    background-color: green;
+    
+}
+
+
+
+.content-info #heading3{
+
+
+    margin-top: 4%;
+    font-size: 20px;
+    font-weight: 700;
+
+    margin-bottom:1% ;
+}
+
+
+.contact-text{
+     width: 60%;
+    padding: 8px;
+}
+.contact-text1{
+    width: 60%;
+    padding: 8px;
+}
+
+
+.contact-text2{
+
+    width: 60%;
+    padding: 8px;
+}
+.contact-text3{
+
+    width: 60%;
+    padding: 8px;
+}
+
+.btn{
+    margin-left: 3%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 15px;
+    font-weight: 300;
+    width: 10%;
+    padding: auto;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: white;
+    transition: all 0.8s;
+
+}
+.btn:hover{
+    color: white;
+    background-color: black;
+}
+
+.map{
+    width: 800px;
+    cursor: pointer;
+}
+.container4{
+    width: 60%;
+    
+}
+
+.container4 footer p{
+      justify-content: center;
+      font-weight: 600;
+      font-size: 20px;
+      color: #fff;
+text-align: center;
+      background-color: black;
+}
